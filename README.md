@@ -8,4 +8,4 @@
 
 `go run .`
 
-## consider using watcher - https://github.com/canthefason/go-watcher
+# consider using watcher - https://github.com/canthefason/go-watcher
